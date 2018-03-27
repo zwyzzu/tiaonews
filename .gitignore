@@ -10,3 +10,7 @@
 /.idea
 
 /screenshot
+gradlew
+gradlew.bat
+local.properties
+app/gradle
